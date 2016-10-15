@@ -1,1 +1,1 @@
-create.blade.php
+<h1 class="">Create works !</h1>
